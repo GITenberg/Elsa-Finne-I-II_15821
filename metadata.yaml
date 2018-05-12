@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6212
     wikipedia: http://sv.wikipedia.org/wiki/Axel_Lundeg%C3%A5rd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15821#Elsa-Finne-I-II
 gutenberg_issued: '2005-05-12'
 gutenberg_type: Text
 identifiers:

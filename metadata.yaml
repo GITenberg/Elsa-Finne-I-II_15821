@@ -1,0 +1,28 @@
+_repo: Elsa-Finne-I-II_15821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lundegård, Axel
+    alias: Lundegard, Axel
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6212'
+    url: http://www.gutenberg.org/2009/agents/6212
+    wikipedia: http://sv.wikipedia.org/wiki/Axel_Lundeg%C3%A5rd
+description: ''
+gutenberg_issued: '2005-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15821'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction'
+- !lcc 'PT'
+title: Elsa Finne I-II
+url: http://www.gutenberg.org/ebooks/15821
